@@ -5,3 +5,4 @@
 #### [Professional JavaScript for Web Developers(3rd)](http://book.douban.com/subject/10546125/)
 * [PJWB1](https://github.com/frechei/BOOKNOTES/wiki/PJWB1)
 * [PJWB2](https://github.com/frechei/BOOKNOTES/wiki/PJWB2)
+* [PJWB3](https://github.com/frechei/BOOKNOTES/wiki/PJWB3)
