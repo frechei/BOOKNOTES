@@ -12,3 +12,8 @@
 * [CSS2](https://github.com/frechei/BOOKNOTES/wiki/css设计指南2)
 * [CSS3](https://github.com/frechei/BOOKNOTES/wiki/css设计指南3)
 * [CSS4](https://github.com/frechei/BOOKNOTES/wiki/css设计指南4)
+* [CSS5](https://github.com/frechei/BOOKNOTES/wiki/css设计指南5)
+* [CSS6](https://github.com/frechei/BOOKNOTES/wiki/css设计指南6)
+
+####[Programming Ruby](http://book.douban.com/subject/24298521/)
+* [PR1](https://github.com/frechei/BOOKNOTES/wiki/PR1)
