@@ -17,3 +17,7 @@
 
 ####[Programming Ruby](http://book.douban.com/subject/24298521/)
 * [PR1](https://github.com/frechei/BOOKNOTES/wiki/PR1)
+* 
+
+####[锋利的Jquery](http://book.douban.com/subject/3794471/)
+[锋利的Jquery1](https://github.com/frechei/BOOKNOTES/wiki/锋利的Jquery1)
